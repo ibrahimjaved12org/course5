@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course5"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course5"
+  },
+  "course_title": "course5",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "101",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course5"
+  },
+  "learning_resource_types": [],
+  "site_uid": "4928b168-e81a-4073-83e3-d5e1cd17a1f3",
+  "site_short_id": "course5"
+}
