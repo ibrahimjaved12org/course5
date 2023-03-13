@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 1c8a1412-93da-462c-bbf9-4e8e2e8f71dc
+  name: Menu
+  url: /pages/p1
+  weight: 10
